@@ -93,16 +93,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthwebdev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=siddharthwebdev&theme=tokyonight" height="160"/>
-</p>
-
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhumiCreates&label=Profile%20Views&color=blue&style=flat" />
 </p>
