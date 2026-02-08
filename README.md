@@ -19,15 +19,26 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & Frameworks
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
 </p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" />
+</p>
+
+- **Machine Learning:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **DSA:** Arrays, Strings, Linked Lists, Trees, Graphs, Recursion, DP
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postgres" />
 </p>
+
+- **Data & BI:** Power BI  
+- **DevOps:** Docker (containerization basics)
 
 ---
 
