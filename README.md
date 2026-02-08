@@ -11,6 +11,12 @@
 ## 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
 
+---
+
+## 📈 GitHub Stats and Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=radical" height="180px"/>
+</div>
 
 ---
 
@@ -24,6 +30,10 @@
 - 🐳 Exploring **Docker** to build reproducible and scalable data workflows
 - 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
 
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
 
 ---
 
