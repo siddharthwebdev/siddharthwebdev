@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
-<h3 align="center">Frontend / Full-Stack Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Data Science Student | Machine Learning Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Building+Clean+Web+Apps;Always+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+%26+Data+Analysis;Python+%26+DSA;Turning+Data+Into+Insights" />
 </p>
+
+---
+
+
+## 📊 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
+
 
 ---
 
