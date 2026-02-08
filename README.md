@@ -16,11 +16,14 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about building **modern, responsive web applications**
-- 🌱 Currently exploring **Next.js, performance optimization & scalable UI**
-- 🧠 Strong with **JavaScript, React, Git, and frontend architecture**
-- 🎯 Goal: Build products that are **clean, fast, and user-friendly**
-- 💬 Ask me about **React, Git, job portals, sourcing tools, or frontend workflows**
+- 🎓 Data Science student passionate about **Machine Learning, Data Analysis, and Analytics**
+- 🐍 Strong proficiency in **Python** for data wrangling, analysis, and model building
+- 🤖 Hands-on experience with **ML libraries** like NumPy, Pandas, Matplotlib, and Scikit-learn
+- 📊 Skilled in **Power BI** for creating interactive dashboards and data-driven insights
+- 🧠 Solid understanding of **Data Structures & Algorithms** for problem-solving
+- 🐳 Exploring **Docker** to build reproducible and scalable data workflows
+- 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
+
 
 ---
 
@@ -79,8 +82,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=YOUR_USERNAME&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bhumiCreates&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=bhumiCreates&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -95,14 +98,6 @@
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: _add your link here_
-- 🌐 Portfolio: _add your website_
-- 📫 Email: _optional_
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=bhumiCreates&label=Profile%20Views&color=blue&style=flat" />
 </p>
