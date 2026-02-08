@@ -35,7 +35,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BhumiWadhwani-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/BhumiWadhwani/)
 
 
 ---
