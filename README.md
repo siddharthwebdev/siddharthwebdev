@@ -35,6 +35,18 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo)
+
+![LeetCode Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=solved&url=https://leetcode-stats-api.herokuapp.com/BhumiWadhwani&color=yellow)
+
+---
+
+## 🧠 LeetCode Stats (Live)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
+
+🔗 LeetCode Profile: https://leetcode.com/YOUR_LEETCODE_USERNAME/
+
 ---
 
 ## 🛠 Tech Stack
