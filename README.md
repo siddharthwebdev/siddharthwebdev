@@ -30,14 +30,6 @@
 - 🐳 Exploring **Docker** to build reproducible and scalable data workflows
 - 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
 
-
----
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BhumiWadhwani-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/BhumiWadhwani/)
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -90,6 +82,12 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BhumiWadhwani-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/BhumiWadhwani/)
 
 ---
 
